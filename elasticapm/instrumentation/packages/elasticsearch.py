@@ -1,6 +1,6 @@
 from __future__ import absolute_import
 
-import json
+from elasticapm.utils import json_encoder as json
 import logging
 
 import elasticapm
