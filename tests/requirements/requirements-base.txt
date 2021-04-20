@@ -1,5 +1,5 @@
 pytest==3.10.1
-py==1.7.0
+py==1.10.0
 more-itertools==4.1.0
 pluggy==0.8.0
 pytest-django==3.4.4
